@@ -15,16 +15,15 @@ This project is a simple real-time chat application developed using .Net, React,
 
 2. In the project directory, run the following commands:
 
-```bash
-# Inside the ChatHub (Backend) folder:
-cd ChatHub
-dotnet run
+    ```bash
+     # Inside the ChatHub (Backend) folder:
+     cd ChatHub
+     dotnet run
 
-# Inside the Frontend folder:
-cd Frontend
-npm install
-npm run dev
-
+    # Inside the Frontend folder:
+    cd Frontend
+    npm install
+    npm run dev
 
 ## 🎯 Contributors
 <table>
