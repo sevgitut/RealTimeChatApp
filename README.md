@@ -1,5 +1,31 @@
 # UpSchool-RealTimeChatApp
 
+This project is a simple real-time chat application developed using .Net, React, and SignalR technologies.
+
+
+## Features
+
+- Users can chat in real-time.
+- Online users list is automatically updated.
+- Messages are automatically displayed on the screens.
+
+## How to Run
+
+1. Make sure you have .Net and Node.js installed on your machine.
+
+2. In the project directory, run the following commands:
+
+```bash
+# Inside the ChatHub (Backend) folder:
+cd ChatHub
+dotnet run
+
+# Inside the Frontend folder:
+cd Frontend
+npm install
+npm run dev
+
+
 ## 🎯 Contributors
 <table>
   <tr>
