@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "F38u3AHLfj7mQPaaFTz1dZVjiaU1iwSOSXVV7D0C2ZDmirpSNb6RmbXu1Q0NOzlGVq/0R4zLRQwXinTysYJT4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sevgi\\Desktop\\FSD\\UpSchool-RealTimeChatApp-main\\Deeneme\\Deeneme\\Deeneme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sevgi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\sevgi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\sevgi\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\sevgi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\sevgi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\sevgi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\sevgi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
