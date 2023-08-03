@@ -1,6 +1,6 @@
 # UpSchool-RealTimeChatApp
 
-This application was carried out within 5 hours in the Up School Full Stack Development Bootcamp program course.
+This application was carried out within 5 hours in the UpSchool Full Stack Development Bootcamp program course.
 This project is a simple real-time chat application developed using .Net, React, and SignalR technologies.
 
 ## Features
